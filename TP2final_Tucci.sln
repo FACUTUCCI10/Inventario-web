@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP2final_Tucci", "TP2final_Tucci\TP2final_Tucci.csproj", "{21023C91-4337-450A-9767-93744CC74D6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dom", "dom\dom.csproj", "{6A7CCBC1-C1EA-472B-89A8-BE737E692720}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negcio", "negcio\negcio.csproj", "{44B2030C-D3CB-439D-87DE-8FCA5DDA464B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21023C91-4337-450A-9767-93744CC74D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21023C91-4337-450A-9767-93744CC74D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21023C91-4337-450A-9767-93744CC74D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21023C91-4337-450A-9767-93744CC74D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A7CCBC1-C1EA-472B-89A8-BE737E692720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7CCBC1-C1EA-472B-89A8-BE737E692720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7CCBC1-C1EA-472B-89A8-BE737E692720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7CCBC1-C1EA-472B-89A8-BE737E692720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B2030C-D3CB-439D-87DE-8FCA5DDA464B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B2030C-D3CB-439D-87DE-8FCA5DDA464B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B2030C-D3CB-439D-87DE-8FCA5DDA464B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B2030C-D3CB-439D-87DE-8FCA5DDA464B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {097E6BF1-5187-4A2C-8B8D-14375A461CDE}
+	EndGlobalSection
+EndGlobal
